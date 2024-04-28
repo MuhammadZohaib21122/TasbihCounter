@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="4"
+    android:orientation="horizontal">
+
+
+    <TextView
+        android:id="@+id/tvwazaif"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_weight="3.5"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="20dp"
+        android:layout_weight="0.5"
+        android:gravity="end">
+        <ImageView
+            android:id="@+id/CrossButton"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/cross_icon"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

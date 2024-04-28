@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tasbeeh</string>
+    <string name="tex_">-</string>
+    <string name="tex_click_here">CLICK HERE</string>
+    <string name="tex_0">0</string>
+    <string name="tex_lap_0">LAP:0</string>
+    <string name="tex_limit_0">LIMIT: 0</string>
+    <string name="tex_limlt">LIMLT:</string>
+    <string name="tex_limit">LIMIT</string>
+    <string name="tex_100">100</string>
+    <string name="tex_lap">LAP:0</string>
+    <string name="tex_views">Views</string>
+    <string name="tex_name">Name</string>
+    <string name="tex_save">SAVE</string>
+    <string name="texnoti_timer">Noti.Timer</string>
+    <string name="texnotificationtimer">NotificationTimer</string>
+    <string name="texset_timer_in_sec">Set Timer in (sec)</string>
+    <string name="tex_08_45_pm">08 : 45 PM</string>
+    <string name="tex_select_time">SELECT TIME</string>
+    <string name="tex_set_alarm">SET ALARM</string>
+    <string name="tex_reset_alarm">RESET ALARM</string>
+    <string name="tex_write_here">Write Here</string>
+    <string name="tex_save_wazaif">SAVE WAZAIF</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="tex_back">BACK</string>
+    <string name="tex_cancel_alarm">CANCEL ALARM</string>
+    <string name="tex_08_30_pm">08 : 30 PM</string>
+    <string name="tex_notification_timer">Notification Timer</string>
+    <string name="tex_enter_wazaif_here">Enter Wazaif Here</string>
+</resources>
